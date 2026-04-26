@@ -1,1 +1,13 @@
-
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5HS3MMR54A.com.seregasa.sirbishop"],
+        "components": [
+          { "/": "/puzzle*" },
+          { "/": "/composer*" }
+        ]
+      }
+    ]
+  }
+}
